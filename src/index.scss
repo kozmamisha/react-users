@@ -23,7 +23,7 @@ body {
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.05);
   padding: 40px;
 
-  @media (min-width: 500px) {
+  @media (max-width: 500px) {
     margin: 50px 20px;
   }  
 }
